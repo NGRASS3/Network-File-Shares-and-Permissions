@@ -41,5 +41,19 @@ We will now set the following permissions for the "Domain Users" group:
 ![image](https://user-images.githubusercontent.com/111653930/236337103-b5ecc273-7d36-4c75-832e-5e8eecf7723e.png)
 ![image](https://user-images.githubusercontent.com/111653930/236337134-8b87996b-fd48-4bf4-989c-82d350915f99.png)
 
+<p>
+Now we can test our permissions. Log into Client-1 as a normal user. Navigate to Network > dc-1 where we created our folders. 
+  
+- the read-access folder is viewable but we get an error if trying to add anything to it.
+- write-access folder is viewable and allows us to create a file within it. 
+- no-access doesn't allow us in at all.
+</p>
 
 
+![image](https://user-images.githubusercontent.com/111653930/236338639-8b80d97b-bf48-4e24-8369-633ac4aa9918.png)
+![image](https://user-images.githubusercontent.com/111653930/236338660-857cfbac-0351-4a0b-bd2e-6b2af2fb53f4.png)
+![image](https://user-images.githubusercontent.com/111653930/236338695-0b43d11a-3905-48f4-a64c-4c6a622f108d.png)
+
+
+
+  
