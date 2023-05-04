@@ -16,6 +16,7 @@ In this tutorial were going to be sharing out files and folders over the Network
 
 <p>
 To start we will login to our Domain Controller DC-1 as an admin account, and our Client-1 as a normal user. Inside DC-1 we will create 4 new folders on the C:\ drive. 
+  
   1. Read-Access
   2. Write-Access
   3. No-Access
