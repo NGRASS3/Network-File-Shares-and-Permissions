@@ -31,8 +31,4 @@ We will now set the following permissions for the "Domain Users" group:
  - Folder: write-access, Group: Domain Users, Permission: Read/Write
  - Folder: no-access, Group: Domain Admins, Permission: Read/Write
   
- - Microsoft Azure (Virtual Machines/Domain Controller/Client Machine)
-- Remote Desktops with Active Directory
-- Shared Network Files
-
 </p>
