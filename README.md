@@ -26,8 +26,8 @@ To start we will login to our Domain Controller DC-1 as an admin account, and ou
 
 <p>
 We will now set the following permissions for the "Domain Users" group:
-  - Folder: read-access, Group: Domain Users, Permission: Read
-  - Folder: write-access, Group: Domain Users, Permission: Read/Write
-  - Folder: no-access, Group: Domain Admins, Permission: Read/Write
+ - Folder: read-access, Group: Domain Users, Permission: Read
+ - Folder: write-access, Group: Domain Users, Permission: Read/Write
+ - Folder: no-access, Group: Domain Admins, Permission: Read/Write
 
 </p>
