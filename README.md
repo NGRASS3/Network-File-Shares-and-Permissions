@@ -55,5 +55,15 @@ Now we can test our permissions. Log into Client-1 as a normal user. Navigate to
 ![image](https://user-images.githubusercontent.com/111653930/236338695-0b43d11a-3905-48f4-a64c-4c6a622f108d.png)
 
 
+<p>
+Now we can test out Security Groups. In DC-1 inside Active Directory we will create a new security group called "ACCOUNTANTS". on the accounting folder we created earlier we will set the following permissions:
+  
+- Folder: accounting, Group: ACCOUNTANTS, Permissions: Read/Write
 
+Now on Client-1 (our regular user) we see that if we try to access the folder we get denied. 
+  </p>
+  
+  ![image](https://user-images.githubusercontent.com/111653930/236340905-716fc7b5-bd56-4f8d-9151-19135bb84b38.png)
+
+  
   
