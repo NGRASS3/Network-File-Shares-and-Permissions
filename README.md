@@ -1,6 +1,5 @@
-<p align="center">
-![image](https://user-images.githubusercontent.com/111653930/236329691-98ca5b1b-9959-495b-9b69-6e25e62fc331.png)
-</p>
+![image](https://user-images.githubusercontent.com/111653930/236330155-0a4f433f-f22d-4af6-a88e-3e192dc9a261.png)
+
 
 <h1>Network-File-Shares-and-Permissions</h1>
 In this tutorial were going to be sharing out files and folders over the Network and allowing different people and groups different levels of access.
