@@ -66,7 +66,7 @@ Now on Client-1 (our regular user) we see that if we try to access the folder we
   ![image](https://user-images.githubusercontent.com/111653930/236340905-716fc7b5-bd56-4f8d-9151-19135bb84b38.png)
   
 
-However, if we then add our regular user to the ACCOUNTANTS they will be able to access the folder.
+However, if we then add our regular user to the ACCOUNTANTS they will be able to access the folder. **NOTE this will require a logout to take affect
 
 ![image](https://user-images.githubusercontent.com/111653930/236341919-f256e7a1-9a38-4320-9531-89b69125be3b.png)
 ![image](https://user-images.githubusercontent.com/111653930/236341946-3723ff14-aeb2-4f09-a475-27fa5ceeceab.png)
