@@ -31,4 +31,14 @@ We will now set the following permissions for the "Domain Users" group:
  - Folder: write-access, Group: Domain Users, Permission: Read/Write
  - Folder: no-access, Group: Domain Admins, Permission: Read/Write
   
+  
+  In order to set these permissions navigate to the file (read-access in this example) -> right click Properties -> Sharing -> and add the appropriate parameters based on the list above.
+  
 </p>
+
+![image](https://user-images.githubusercontent.com/111653930/236337087-3eda95d0-e849-41af-972e-9904ad1c13fc.png)
+![image](https://user-images.githubusercontent.com/111653930/236337103-b5ecc273-7d36-4c75-832e-5e8eecf7723e.png)
+![image](https://user-images.githubusercontent.com/111653930/236337134-8b87996b-fd48-4bf4-989c-82d350915f99.png)
+
+
+
